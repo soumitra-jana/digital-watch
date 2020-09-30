@@ -3,7 +3,7 @@ int main()
 {
 	int h=0,m=0,s=0;
 	double i;
-	printf("Enter Time In Hour
+	printf(" Enter Time In Hour
 	: h Minitue: m Second: s     -");
 	scanf("%d %d %d",&h,&m,&s);
 	start:;
